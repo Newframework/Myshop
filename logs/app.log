@@ -1,0 +1,102 @@
+[INFO ] 2023-07-29 07:55:42.040 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 07:55:44.959 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 07:55:47.982 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 07:55:48.927 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 07:55:51.396 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 07:55:51.468 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:22:38.871 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:22:40.586 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:22:43.657 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:22:44.513 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:22:47.299 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:22:47.379 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:23:28.131 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:23:29.738 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:23:32.869 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:23:34.022 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:23:37.171 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:23:37.269 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:31:39.830 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:31:43.244 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:31:46.063 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:31:47.030 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:31:50.749 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:31:50.835 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:32:05.086 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:32:06.744 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:32:09.458 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:32:10.915 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:32:13.825 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:32:13.888 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:32:46.781 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:32:49.178 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:32:51.345 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:32:52.613 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:32:56.077 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:32:56.115 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:33:52.810 [TestNG-tests-2] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:33:56.987 [TestNG-tests-2] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:33:59.574 [TestNG-tests-3] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:34:03.750 [TestNG-tests-2] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:34:04.071 [TestNG-tests-1] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 16:34:04.468 [TestNG-tests-3] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:34:06.140 [TestNG-tests-2] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:34:07.921 [TestNG-tests-1] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 16:34:08.341 [TestNG-tests-3] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:34:09.815 [TestNG-tests-2] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:34:09.995 [TestNG-tests-2] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:34:10.306 [TestNG-tests-3] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:34:13.306 [TestNG-tests-1] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 16:34:13.870 [TestNG-tests-3] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:34:13.914 [TestNG-tests-3] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 16:34:14.768 [TestNG-tests-1] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 16:34:17.257 [TestNG-tests-1] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 16:34:17.388 [TestNG-tests-1] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 17:21:31.027 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 17:21:32.638 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 17:21:35.336 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 17:21:36.166 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 17:21:38.762 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 17:21:38.835 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 21:19:36.524 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:19:50.955 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:19:54.369 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:19:55.213 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:19:58.317 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:19:58.412 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 21:23:12.731 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:23:15.289 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:23:20.631 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:23:21.686 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:23:27.105 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:26:26.310 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:26:28.228 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:26:31.101 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:26:31.912 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:26:34.851 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:34:21.268 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:34:24.089 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:34:27.147 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:34:28.110 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:34:30.592 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:39:55.408 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:39:59.387 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:40:02.798 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:40:04.673 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:40:08.144 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:42:39.301 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:42:42.552 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:42:45.907 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:42:46.831 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:42:49.513 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:42:49.616 [main] TC_001_AccountRegistrationTest - ****Account creation is done******
+[INFO ] 2023-07-29 21:44:20.700 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:44:22.354 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:44:25.286 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:44:26.356 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:44:29.116 [main] TC_001_AccountRegistrationTest - ****comparizion started******
+[INFO ] 2023-07-29 21:46:05.023 [main] TC_001_AccountRegistrationTest - ****Accont registartion started******
+[INFO ] 2023-07-29 21:46:07.411 [main] TC_001_AccountRegistrationTest - ****Accont craetion page started******
+[INFO ] 2023-07-29 21:46:10.231 [main] TC_001_AccountRegistrationTest - ****dropdown list selected******
+[INFO ] 2023-07-29 21:46:11.036 [main] TC_001_AccountRegistrationTest - ****craet button clicked******
+[INFO ] 2023-07-29 21:46:14.421 [main] TC_001_AccountRegistrationTest - ****comparizion started******
